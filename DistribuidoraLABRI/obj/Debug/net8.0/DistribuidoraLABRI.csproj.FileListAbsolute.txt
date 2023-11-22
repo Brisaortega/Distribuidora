@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\DistribuidoraLABRI\DistribuidoraLABRI\obj\Debug\net8.0\DistribuidoraLABRI.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\DistribuidoraLABRI\DistribuidoraLABRI\obj\Debug\net8.0\DistribuidoraLABRI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\DistribuidoraLABRI\DistribuidoraLABRI\obj\Debug\net8.0\DistribuidoraLABRI.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\DistribuidoraLABRI\DistribuidoraLABRI\obj\Debug\net8.0\DistribuidoraLABRI.AssemblyInfo.cs
+C:\Users\Usuario\Documents\DistribuidoraLABRI\DistribuidoraLABRI\obj\Debug\net8.0\DistribuidoraLABRI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\DistribuidoraLABRI\DistribuidoraLABRI\obj\Debug\net8.0\DistribuidoraLABRI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\DistribuidoraLABRI\DistribuidoraLABRI\obj\Debug\net8.0\DistribuidoraLABRI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\DistribuidoraLABRI\DistribuidoraLABRI\obj\Debug\net8.0\DistribuidoraLABRI.RazorAssemblyInfo.cache
+C:\Users\Usuario\Documents\DistribuidoraLABRI\DistribuidoraLABRI\obj\Debug\net8.0\DistribuidoraLABRI.RazorAssemblyInfo.cs
